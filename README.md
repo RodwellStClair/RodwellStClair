@@ -1,5 +1,5 @@
 ![](./assets/Banner.png)<br>
-###About me 👨🏽‍🔧
+### About me 👨🏽‍🔧
 <div align="center">
 <strong>👩‍💻 FullStack Developer | Background in Earth Sciences 🌍 and Engineering 🏗️  | Continuous Learner 📚</strong><br>
 My academic journey 📚 has given me a strong penchant for exploring complex systems and understanding the intricacies of the natural world. This i believe has led me down an unconventional path, from the structured world of Engineering 🏗️ to the boundless and ever-evolving domain of software engineering and development📅.
@@ -7,7 +7,7 @@ My academic journey 📚 has given me a strong penchant for exploring complex sy
 </div>
 
 ---
-###Interest🧠
+### Interest🧠
 <ul style="color:green;">
   <li><strong style="color:green;">Data Science and Machine Learning</strong></li>
   <li><strong style="color:green;">Data Engineering</strong></li>
