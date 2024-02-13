@@ -8,11 +8,12 @@ My academic journey 📚 has given me a strong penchant for exploring complex sy
 
 ---
 ### Interest🧠
-<ul style="color:green;">
-  <li><strong style="color:green;">Data Science and Machine Learning</strong></li>
-  <li><strong style="color:green;">Data Engineering</strong></li>
-  <li><strong style="color:green;">GIS Software Development </strong></li>
-  <li><strong style="color:green;">Software Architecture</strong></li>
+<ul >
+  <li><strong >Data Science and Machine Learning</strong></li>
+  <li><strong >Data Engineering</strong></li>
+  <li><strong >GIS Software Development </strong></li>
+  <li><strong >Software Architecture</strong></li>
+  <li><strong >Open Source Contribution</strong></li>
 </ul>
 
 ---
