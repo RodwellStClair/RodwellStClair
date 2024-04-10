@@ -38,5 +38,5 @@ My academic journey 📚 has given me a strong penchant for exploring complex sy
 
 |Project                 | Tech Stack Used                                           | Repo                                                                    | Link                                                              |
 |:-----------------------|:-------------------------------------------------|:------------------------------------------------------------------------|:------------------------------------------------------------------|
-| OctoCare Electricity (Personal Project)          |  CSS, React, Expressjs,MangoDB, Redux-toolkit, Chartjs,                 | [Github](https://github.com/RodwellStClair/OctoCare-Agile-Electricity.git)        |
+| OctoCare Electricity          |  CSS, React, Expressjs,MangoDB, Redux-toolkit, Chartjs,                 | [Github](https://github.com/RodwellStClair/OctoCare-Agile-Electricity.git)        |
 </div>
