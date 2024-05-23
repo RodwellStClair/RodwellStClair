@@ -34,11 +34,10 @@ My academic journey 📚 has given me a strong penchant for exploring complex sy
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white) ![Vitest](https://img.shields.io/badge/Vitest-4C51BF?style=flat&logo=vitest&logoColor=white)
 
 ##### ♾️ CI/CD Technologies
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ##### 🆘 Auxiliary Technologies
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white) ![OpenLayers](https://img.shields.io/badge/OpenLayers-1F6B75?style=flat&logo=openlayers&logoColor=white)  ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chart.js&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![APIs](https://img.shields.io/badge/External-APIs-FF0603?style=flat&logo=api&logoColor=white)
-
 <BR>
 
 ---
@@ -48,6 +47,7 @@ My academic journey 📚 has given me a strong penchant for exploring complex sy
 
 |Project                 | Tech Stack Used                                           | Repo                                                                    | Link                                                              |
 |:-----------------------|:-------------------------------------------------|:------------------------------------------------------------------------|:------------------------------------------------------------------|
-| OctoCare Electricity          |  CSS, React,Redux-toolkit,Chartjs, Expressjs,MangoDB,                   | [Github](https://github.com/RodwellStClair/OctoCare-Agile-Electricity.git)        |
-|CrimeWatch | CSS,React,Redux-toolkit,OpenLayers,Chartjs,Django,PostgresSQL|[Github](https://github.com/RodwellStClair/CrimeWatch.git)
+| OctoCare Electricity  |  CSS, React,Redux-toolkit,Chartjs, Expressjs,MangoDB,                   | [Github](https://github.com/RodwellStClair/OctoCare-Agile-Electricity.git)        |
+|CrimeWatch | CSS,React,Redux-toolkit,OpenLayers,Chartjs,Django,PostgresSQL|[Github](https://github.com/RodwellStClair/CrimeWatch.git) |
+|SavvySaver | CSS, React, Koa, Node, Chartjs,MongoDB |[Github](https://github.com/Georrgy/Savvy-Saver.git) |
 </div>
