@@ -47,7 +47,7 @@ My academic journey 📚 has given me a strong penchant for exploring complex sy
 
 |Project                 | Tech Stack Used                                           | Repo                                                                    | Link                                                              |
 |:-----------------------|:-------------------------------------------------|:------------------------------------------------------------------------|:------------------------------------------------------------------|
-| OctoCare Electricity  |  CSS, React,Redux-toolkit,Chartjs, Expressjs,MangoDB,                   | [Github](https://github.com/RodwellStClair/OctoCare-Agile-Electricity.git)        |
 |CrimeWatch | CSS,React,Redux-toolkit,OpenLayers,Chartjs,Django,PostgresSQL|[Github](https://github.com/RodwellStClair/CrimeWatch.git) |
+| OctoCare Electricity  |  CSS, React,Redux-toolkit,Chartjs, Expressjs,MangoDB,                   | [Github](https://github.com/RodwellStClair/OctoCare-Agile-Electricity.git)        |
 |SavvySaver | CSS, React, Koa, Node, Chartjs,MongoDB |[Github](https://github.com/Georrgy/Savvy-Saver.git) |
 </div>
